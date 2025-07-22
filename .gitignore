@@ -1,3 +1,13 @@
+# Python Virtual Environment
+.venv/
+venv/
+
+# Environment variables (NEVER upload this file)
 .env
-.idea/
+
+# VS Code specific files
 .vscode/
+
+# Python cache
+__pycache__/
+*.pyc
